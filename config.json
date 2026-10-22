@@ -1,5 +1,6 @@
 {
+  "google_web_client_id": "859994840766-a6461sfahq203s809hchv43jblmqe9bn.apps.googleusercontent.com",
   "backend_url": "https://contact-list-api-tan.vercel.app/",
-  "min_app_version": 1,
-  "announcement_enabled": false
+  "mongodb_db_name": "my_school_db",
+  "min_app_version": 1
 }
