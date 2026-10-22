@@ -1,0 +1,5 @@
+{
+  "backend_url": "https://contact-list-api-tan.vercel.app/",
+  "min_app_version": 1,
+  "announcement_enabled": false
+}
